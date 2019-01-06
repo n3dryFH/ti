@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Kevin\Documents\Studium\fh Aachen\1. Semster\GIP\Projekte\akkumulator_restored\simulation\qsim
+vakkumulator
+Z1 !s100 WHDMo1Va=7_L7Q@o75Udj3
+Z2 I>OO`j4m<eEZ7_KY5mJCgT0
+Z3 VU2c`F;mOX:@k`0H:nQ4i[3
+Z4 dC:\Users\Kevin\Documents\Studium\fh Aachen\1. Semster\GIP\Projekte\akkumulator_restored\simulation\qsim
+Z5 w1546709702
+Z6 8akkumulator.vo
+Z7 Fakkumulator.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|akkumulator.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1546709703.522000
+Z12 !s107 akkumulator.vo|
+!s101 -O0
+vakkumulator_vlg_check_tst
+!i10b 1
+Z13 !s100 WUNUhnZ<hTk5:b<Wf7]C>1
+Z14 I645:o@i?WDa0POgIMHKNP0
+Z15 V`N8k<C?`E=adR?olYVGT^0
+R4
+R5
+Z16 8akkumulator.vt
+Z17 Fakkumulator.vt
+L0 65
+R8
+r1
+!s85 0
+31
+Z18 !s108 1546709703.758000
+Z19 !s107 akkumulator.vt|
+Z20 !s90 -work|work|akkumulator.vt|
+!s101 -O0
+R10
+vakkumulator_vlg_sample_tst
+!i10b 1
+Z21 !s100 FAH1>2jc?8SKAe7[_]ZhA1
+Z22 I9]CO=OMS?7YG5?ZMdA3HD1
+Z23 VB53<WiF4FZ=zc;L==F_JL0
+R4
+R5
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vakkumulator_vlg_vec_tst
+!i10b 1
+!s100 JG<T@JQDzjTD0gVKVclk^1
+IhcY;2CL[hlZ8:VBQRIJ:W2
+Z24 Vo4e>GmY`]GaQoXIHnB_?]1
+R4
+R5
+R16
+R17
+Z25 L0 338
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
